@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h2><b>ABOUT ME</b></h2>
-<p><a href="https://protamlan.github.io/">Check out my Portfolio!</p>
+<p><a href="https://Alan4M.github.io/">Check out my Portfolio!</p>
 <br>
 	
 <h2><b>KNOWN LANGUAGES</b></h2>
