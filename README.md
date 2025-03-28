@@ -1,5 +1,4 @@
-### Hi there 👋
-<h2><b>ABOUT ME</b></h2>
+# <b>ABOUT ME 👋 </b>
 <p><a href="https://Alan4M.github.io/">Check out my Portfolio!</p>
 <br>
 	
